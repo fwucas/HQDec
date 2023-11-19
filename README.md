@@ -8,13 +8,5 @@ This repository contains the official PyTorch implementation of the paper：Fei 
 
 
 Related Work:
+Fei Wang, Jun Cheng, Penglei Liu, CbwLoss: Constrained Bidirectional Weighted Loss for Self-Supervised Learning of Depth and Pose[J]IEEE Transactions on Intelligent Transportation Systems(doi:10.1109/TITS.2023.3250744), 2023
 
-@ARTICLE{
-  author={Wang, Fei and Cheng, Jun and Liu, Penglei},
-  journal={IEEE Transactions on Intelligent Transportation Systems}, 
-  title={CbwLoss: Constrained Bidirectional Weighted Loss for Self-Supervised Learning of Depth and Pose}, 
-  year={2023},
-  volume={24},
-  number={6},
-  pages={5803-5821},
-  doi={10.1109/TITS.2023.3250744}}
